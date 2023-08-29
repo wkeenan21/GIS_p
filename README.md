@@ -1,1 +1,1 @@
-# All things GIS Programming
+# For GIS Programming class at CU Boulder
